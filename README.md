@@ -1,4 +1,4 @@
-# Oregon State University Mars Rover Team 2020-2021
+# Oregon State University Mars Rover Team 2023-2024
 
 ## Software
 
